@@ -1,0 +1,2 @@
+admin "'.*-rqp
+victor rqp
